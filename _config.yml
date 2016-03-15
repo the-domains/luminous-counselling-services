@@ -1,7 +1,7 @@
 name: Luminous Counselling Services
 favicon: null
-layout_spectrum: 0.10807200730778277
-typography_spectrum: 0.6952075574081391
+layout_spectrum: 1
+typography_spectrum: 0.3965
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5236723418347538
-  lightness: 0.1496422807686031
-  saturation: 0.2927174244541675
-  rhythmicContrast: 0.7196946809999645
+    - '#1370b3'
+    - '#4f79cf'
+    - '#d1d5fd'
+    - '#97b1de'
+    - '#0a3353'
+  brandStrength: 1
+  lightness: 0.9375
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
