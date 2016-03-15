@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Luminous Counselling Services]]></title>
+        <description><![CDATA[Luminous Counselling Services]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 19:36:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Luminous Counselling Services]]></title>
+            <description><![CDATA[<article><h1>Welcome to Luminous Counselling Services</h1><p>Luminous describes our shared potential as human beings to orient ourselves and be guided by our best intentions for ourselves and our relationships. My passion to help people connect with and strive for realizing this potential in their life and relationships!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e4e9d14de6c096028a911d926169990c17f8339.jpg"></article>]]></description>
+            <link>undefinedwelcome-to-luminous-counselling-services/index.html</link>
+            <guid isPermaLink="false">a50eb751-3a48-4cad-adef-7972ba68eff4</guid>
+            <pubDate>Tue, 15 Mar 2016 19:36:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
